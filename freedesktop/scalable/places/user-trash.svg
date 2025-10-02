@@ -1,1 +1,116 @@
-<svg version="1.0" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg"><path d="M56 16c-8.864 0-16.707 7.164-16 16l16 200c36 20 108 20 144 0l16-200c.707-8.836-7.136-16-16-16z" fill="#898989"/><path d="M56 16c-8.864 0-16.707 7.164-16 16l16 200c36 20 108 20 144 0l16-200c.707-8.836-7.136-16-16-16zm0 1h144c8.31 0 15 6.69 15 15l-16 195c-36 20-106 20-142 0L41 32c0-8.31 6.69-15 15-15z" fill-opacity=".5"/><g fill="none" stroke-width="2"><path d="M129 35.54v192" opacity=".35" stroke="#000"/><path d="M127 35.54v192" opacity=".35" stroke="#fff"/></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.0"
+   viewBox="0 0 256 256"
+   id="svg4"
+   sodipodi:docname="user-trash.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath39">
+      <ellipse
+         style="fill:#e0e1e1;fill-opacity:1;stroke-width:1.01095"
+         id="ellipse39"
+         cx="-292.61725"
+         cy="39.55172"
+         rx="68.608696"
+         ry="17.130434" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath38">
+      <ellipse
+         style="fill:#e0e1e1;fill-opacity:1;stroke-width:1.01095"
+         id="ellipse38"
+         cx="-155.40063"
+         cy="59.189125"
+         rx="68.608696"
+         ry="17.130434" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath37">
+      <ellipse
+         style="fill:#e0e1e1;fill-opacity:1;stroke-width:1.01095"
+         id="ellipse37"
+         cx="-155.40063"
+         cy="59.189125"
+         rx="68.608696"
+         ry="17.130434" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath36">
+      <ellipse
+         style="fill:#e0e1e1;fill-opacity:1;stroke-width:1.01095"
+         id="ellipse36"
+         cx="-155.40063"
+         cy="59.189125"
+         rx="68.608696"
+         ry="17.130434" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath35">
+      <ellipse
+         style="fill:#e0e1e1;fill-opacity:1;stroke-width:1.01095"
+         id="ellipse35"
+         cx="-155.40063"
+         cy="59.189125"
+         rx="68.608696"
+         ry="17.130434" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath34">
+      <ellipse
+         style="fill:#e0e1e1;fill-opacity:1;stroke-width:1.01095"
+         id="ellipse34"
+         cx="-155.40063"
+         cy="59.189125"
+         rx="68.608696"
+         ry="17.130434" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.4375"
+     inkscape:cx="34.782609"
+     inkscape:cy="133.56522"
+     inkscape:window-width="1904"
+     inkscape:window-height="923"
+     inkscape:window-x="8"
+     inkscape:window-y="40"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <g
+     id="g9"
+     style="display:inline;fill:#f0f1f1;fill-opacity:1"
+     transform="matrix(1.3431938,0,0,1.3431938,544.45458,-115.18342)">
+    <path
+       id="path5-6"
+       style="fill:#f0f1f1;fill-opacity:1;stroke-width:0.960602"
+       d="m -156.95703,41.912109 a 68.608696,17.130434 0 0 0 -68.60742,17.13086 68.608696,17.130434 0 0 0 0.0937,0.898437 l 14.61132,139.716794 a 53.501171,19.834076 0 0 0 53.50196,19.83399 53.501171,19.834076 0 0 0 53.5,-19.83399 L -88.451172,59.988281 v -0.002 a 68.608696,17.130434 0 0 0 0.103516,-0.943359 68.608696,17.130434 0 0 0 -68.609374,-17.13086 z"
+       transform="translate(-152.48911,52.860053)" />
+    <ellipse
+       style="fill:#e0e1e1;fill-opacity:1;stroke-width:1.01095"
+       id="path5-5"
+       cx="-309.44614"
+       cy="111.9026"
+       rx="68.608696"
+       ry="17.130434" />
+  </g>
+</svg>
